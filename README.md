@@ -20,7 +20,7 @@ pθ(x|z) =f(x;z,θ)    p(z) =N(z|0,I)
     <img src="https://github.com/xiaowuc2/Variational-Autoencoder-Alzheimer-Detection/blob/main/Images/VAE.png" alt="Distribution">
 </a>
   
-<p align="center">Variational Autoencoder is trained and Encoder is later used to obtainlatent vectors.</p>
+<p align="center">Fig. 1 Variational Autoencoder is trained and Encoder is later used to obtainlatent vectors.</p>
 
 `Latent Vector Resampling Techniques` <br>
 
@@ -31,4 +31,4 @@ Till  now  we  have  got  latent  vector  by  feeding  the  original  imbalance 
     <img src="https://github.com/xiaowuc2/Variational-Autoencoder-Alzheimer-Detection/blob/main/Images/Enoder_VAE.png" alt="Distribution">
   </a>
   
-<p align="center">Proposed Encoder Architecture.</p>
+<p align="center">Fig. 2 Proposed Encoder Architecture.</p>
