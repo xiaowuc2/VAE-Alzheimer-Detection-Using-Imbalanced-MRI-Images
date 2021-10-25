@@ -1,5 +1,5 @@
 <p><pre align="center">
-<strong>Variational Autoencoder : Alzheimer Detection / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Research Paper​</a></pre></p></strong>
+<strong>Variational Autoencoder: Alzheimer Detection Using Imbalanced MRI Images / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Research Paper​</a></pre></p></strong>
 
 
 ### Abstract 
