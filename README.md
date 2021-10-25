@@ -32,3 +32,9 @@ Till  now  we  have  got  latent  vector  by  feeding  the  original  imbalance 
   </a>
   
 <p align="center">Fig. 2 Proposed Encoder Architecture.</p>
+
+### Citation
+
+```
+
+```
