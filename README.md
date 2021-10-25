@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://cognopy.vercel.app">
-    <img src="https://github.com/xiaowuc2/Variational-Autoencoder-Alzheimer-Detection-Using-Imbalanced-MRI-Images/blob/main/Images/mildDem.jpg" alt="Logo" width="220" length="220" >
+    <img src="https://github.com/xiaowuc2/Variational-Autoencoder-Alzheimer-Detection-Using-Imbalanced-MRI-Images/blob/main/Images/mildDem.jpg" alt="Logo">
   </a>
 </p>
 
