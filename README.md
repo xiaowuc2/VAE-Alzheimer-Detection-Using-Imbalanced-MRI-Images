@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://cognopy.vercel.app">
+    <img src="https://github.com/xiaowuc2/Variational-Autoencoder-Alzheimer-Detection-Using-Imbalanced-MRI-Images/blob/main/Images/springer.png" alt="Logo" width="40%" length="40%">
+  </a>
+</p>
+
 <p><pre align="center">
 <strong>Variational Autoencoder: Alzheimer Detection Using Imbalanced MRI Images / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Code​</a>/ <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Research Paper​</a></pre></p></strong>
 
